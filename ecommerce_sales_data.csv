@@ -1,0 +1,101 @@
+OrderID,CustomerID,Product,Category,Price,Quantity,Total,City,Date
+101,C041,T-Shirt,Fashion,12249,3,36747,Mumbai,25-04-2023
+102,C009,Puzzle,Toys,11187,5,55935,Delhi,30-10-2023
+103,C028,T-Shirt,Fashion,1635,2,3270,Mumbai,16-09-2023
+104,C039,Jacket,Fashion,3357,5,16785,Hyderabad,23-04-2023
+105,C029,Comics,Books,13361,1,13361,Mumbai,24-12-2023
+106,C028,Sofa Cover,Home,2647,2,5294,Bangalore,22-02-2023
+107,C006,Face Wash,Beauty,5981,3,17943,Chennai,16-05-2023
+108,C003,Action Figure,Toys,8885,1,8885,Hyderabad,10-02-2023
+109,C036,Curtains,Home,10233,3,30699,Chennai,09-04-2023
+110,C046,T-Shirt,Fashion,10934,2,21868,Bangalore,10-02-2023
+111,C015,Jeans,Fashion,4654,4,18616,Pune,06-07-2023
+112,C011,Sofa Cover,Home,3532,3,10596,Pune,16-12-2023
+113,C042,Jacket,Fashion,10503,2,21006,Chennai,06-05-2023
+114,C011,Lipstick,Beauty,4522,5,22610,Mumbai,17-12-2023
+115,C021,T-Shirt,Fashion,13564,1,13564,Bangalore,25-07-2023
+116,C018,T-Shirt,Fashion,9392,3,28176,Mumbai,02-12-2023
+117,C032,Perfume,Beauty,7617,2,15234,Bangalore,13-03-2023
+118,C016,Board Game,Toys,8930,3,26790,Pune,27-10-2023
+119,C028,Comics,Books,6030,2,12060,Mumbai,18-09-2023
+120,C032,T-Shirt,Fashion,14208,1,14208,Mumbai,18-11-2023
+121,C011,Action Figure,Toys,9871,1,9871,Hyderabad,15-07-2023
+122,C039,Perfume,Beauty,4219,5,21095,Delhi,15-12-2023
+123,C047,Jacket,Fashion,14596,5,72980,Bangalore,25-11-2023
+124,C022,Jeans,Fashion,7223,2,14446,Hyderabad,02-01-2023
+125,C047,Action Figure,Toys,8301,2,16602,Chennai,24-02-2023
+126,C041,Curtains,Home,8417,5,42085,Mumbai,20-03-2023
+127,C024,Headphones,Electronics,12857,5,64285,Delhi,03-11-2023
+128,C021,Face Wash,Beauty,1932,3,5796,Bangalore,03-05-2023
+129,C004,Headphones,Electronics,1390,1,1390,Pune,06-09-2023
+130,C005,Novel,Books,2203,4,8812,Chennai,26-03-2023
+131,C017,Magazine,Books,7032,2,14064,Chennai,20-12-2023
+132,C013,Action Figure,Toys,6637,3,19911,Hyderabad,22-09-2023
+133,C029,T-Shirt,Fashion,3781,1,3781,Bangalore,11-01-2023
+134,C038,Novel,Books,9741,2,19482,Delhi,06-02-2023
+135,C046,Puzzle,Toys,3850,1,3850,Delhi,19-06-2023
+136,C005,Novel,Books,4662,4,18648,Mumbai,04-10-2023
+137,C009,Board Game,Toys,9540,4,38160,Mumbai,31-08-2023
+138,C027,Mobile,Electronics,1688,4,6752,Bangalore,05-08-2023
+139,C027,Perfume,Beauty,987,1,987,Delhi,26-07-2023
+140,C047,Lamp,Home,4173,2,8346,Mumbai,02-10-2023
+141,C029,Laptop,Electronics,3106,3,9318,Hyderabad,08-05-2023
+142,C005,Perfume,Beauty,1704,1,1704,Pune,04-10-2023
+143,C001,T-Shirt,Fashion,2824,4,11296,Hyderabad,04-09-2023
+144,C014,Face Wash,Beauty,2797,4,11188,Delhi,19-07-2023
+145,C017,Lipstick,Beauty,7030,5,35150,Pune,07-09-2023
+146,C010,Laptop,Electronics,3666,1,3666,Chennai,05-10-2023
+147,C004,Action Figure,Toys,1036,1,1036,Chennai,02-09-2023
+148,C033,Novel,Books,1031,5,5155,Delhi,06-04-2023
+149,C005,Novel,Books,11162,2,22324,Hyderabad,03-03-2023
+150,C037,Headphones,Electronics,9840,1,9840,Chennai,11-02-2023
+151,C027,Board Game,Toys,9360,5,46800,Bangalore,14-05-2023
+152,C014,Board Game,Toys,5247,2,10494,Bangalore,22-07-2023
+153,C009,Board Game,Toys,5015,4,20060,Bangalore,07-02-2023
+154,C001,Perfume,Beauty,9324,1,9324,Delhi,03-10-2023
+155,C014,Comics,Books,2270,3,6810,Delhi,06-05-2023
+156,C024,Lamp,Home,7279,5,36395,Pune,04-06-2023
+157,C040,Board Game,Toys,228,5,1140,Bangalore,06-12-2023
+158,C007,Laptop,Electronics,1991,1,1991,Pune,11-10-2023
+159,C010,Sofa Cover,Home,10009,2,20018,Pune,25-06-2023
+160,C014,Board Game,Toys,14074,3,42222,Chennai,08-09-2023
+161,C017,T-Shirt,Fashion,10492,4,41968,Bangalore,23-01-2023
+162,C001,Lamp,Home,10538,3,31614,Mumbai,15-08-2023
+163,C036,Action Figure,Toys,9289,1,9289,Delhi,08-02-2023
+164,C045,Headphones,Electronics,690,3,2070,Chennai,10-10-2023
+165,C010,Face Wash,Beauty,785,3,2355,Bangalore,21-01-2023
+166,C023,Headphones,Electronics,4188,1,4188,Bangalore,14-10-2023
+167,C027,Magazine,Books,2632,2,5264,Mumbai,01-04-2023
+168,C027,T-Shirt,Fashion,12167,3,36501,Hyderabad,09-12-2023
+169,C048,Laptop,Electronics,2708,1,2708,Hyderabad,20-01-2023
+170,C031,Mobile,Electronics,13478,4,53912,Bangalore,06-06-2023
+171,C015,Mobile,Electronics,10913,2,21826,Hyderabad,18-06-2023
+172,C018,Jeans,Fashion,5853,5,29265,Hyderabad,14-12-2023
+173,C035,Lamp,Home,1989,3,5967,Mumbai,25-10-2023
+174,C017,T-Shirt,Fashion,9874,4,39496,Bangalore,10-06-2023
+175,C028,Magazine,Books,1994,4,7976,Chennai,08-04-2023
+176,C017,Jacket,Fashion,7244,1,7244,Chennai,03-10-2023
+177,C044,Board Game,Toys,12175,2,24350,Bangalore,09-08-2023
+178,C005,Action Figure,Toys,10309,3,30927,Pune,05-03-2023
+179,C047,Curtains,Home,5167,4,20668,Bangalore,26-07-2023
+180,C045,Curtains,Home,2185,2,4370,Hyderabad,07-12-2023
+181,C025,Board Game,Toys,14891,2,29782,Chennai,19-10-2023
+182,C020,Perfume,Beauty,13759,1,13759,Bangalore,27-05-2023
+183,C014,Perfume,Beauty,10039,3,30117,Hyderabad,15-08-2023
+184,C029,Puzzle,Toys,8475,4,33900,Pune,28-03-2023
+185,C043,Jeans,Fashion,8545,5,42725,Bangalore,17-02-2023
+186,C049,Headphones,Electronics,5185,2,10370,Mumbai,17-03-2023
+187,C002,T-Shirt,Fashion,7884,5,39420,Delhi,22-08-2023
+188,C027,Board Game,Toys,3285,4,13140,Hyderabad,24-07-2023
+189,C016,Headphones,Electronics,11366,1,11366,Delhi,06-08-2023
+190,C015,Headphones,Electronics,8586,4,34344,Delhi,13-10-2023
+191,C016,Jeans,Fashion,2284,4,9136,Pune,29-09-2023
+192,C036,Comics,Books,12474,4,49896,Chennai,16-09-2023
+193,C028,Comics,Books,14799,2,29598,Pune,01-09-2023
+194,C029,Lamp,Home,13860,3,41580,Chennai,06-09-2023
+195,C041,Laptop,Electronics,7306,1,7306,Pune,27-05-2023
+196,C016,Sofa Cover,Home,5338,5,26690,Delhi,12-03-2023
+197,C010,Laptop,Electronics,11469,2,22938,Pune,20-04-2023
+198,C005,Lipstick,Beauty,5521,5,27605,Hyderabad,01-08-2023
+199,C004,Laptop,Electronics,6481,5,32405,Pune,11-01-2023
+200,C049,Comics,Books,7914,1,7914,Bangalore,02-06-2023
